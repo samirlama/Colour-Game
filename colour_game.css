@@ -1,0 +1,44 @@
+.color {
+  height:50px;
+  width: 50px;
+  margin:5px;
+}
+.red{
+  background:red;
+  float:left;
+}
+.blue{
+  background:blue;
+  float:left;
+}
+.yellow{
+  background: yellow;
+  float:left;
+}
+.green{
+  background: green;
+  float:left;
+}
+.aqua{
+  background: aqua;
+  float:left;
+}
+.pink{
+  background: pink;
+  float:left;
+}
+.purple{
+  background: purple;
+  float:left;
+}
+.brown{
+  background: brown;
+  float:left;
+}
+.black{
+  background: black;
+  float:left;
+}
+.colour_game_head{
+  font-size: 30px;
+}
